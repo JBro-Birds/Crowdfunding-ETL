@@ -16,7 +16,7 @@ The revised ERD including the new "backers" table in the schema is as follows:
 
 ### Requested Data Analysis on the Database by Using SQL Queries
 
-Number of backers in descending order for each "live" project (the "count" column represents the number of backers and teh "cf_id" column represents the "live project numeric code):
+Number of backers in descending order for each "live" project (the "count" column represents the number of backers and the "cf_id" column represents the "live project numeric code):
 
 ![backer_count_live_check](https://raw.githubusercontent.com/JBro-Birds/Crowdfunding-ETL/master/Support/backer_count_live_check.png)
 
