@@ -8,8 +8,10 @@ The company gave positive feedback to the junior SQL developer and myself for su
 
 ## Summary
 
+### ERD
 
+The revised ERD including the new "backers" tabel in the schema is as follows:
 
-
+![crowdfunding_db_schema](https://raw.githubusercontent.com/JBro-Birds/Crowdfunding-ETL/master/crowdfunding_db_schema.png)
 
 
