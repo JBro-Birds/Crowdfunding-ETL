@@ -22,8 +22,8 @@ Number of backers in descending order for each "live" project (the "count" colum
 
 Backer contact information for "live" projects sorted in descending order based on the remaining goal amount:
 
-!(email_contacts_remaining_goal_amount](https://raw.githubusercontent.com/JBro-Birds/Crowdfunding-ETL/master/Support/email_contacts_remaining_goal_amount.png)
+![email_contacts_remaining_goal_amount](https://raw.githubusercontent.com/JBro-Birds/Crowdfunding-ETL/master/Support/email_contacts_remaining_goal_amount.png)
 
 Backer contact information for "live" projects that includes additional project information and is sorted in ascending order by backer last name and email address:
 
-!(email_backers_remaining_goal_amount](https://raw.githubusercontent.com/JBro-Birds/Crowdfunding-ETL/master/Support/email_backers_remaining_goal_amount.png)
+![email_backers_remaining_goal_amount](https://raw.githubusercontent.com/JBro-Birds/Crowdfunding-ETL/master/Support/email_backers_remaining_goal_amount.png)
